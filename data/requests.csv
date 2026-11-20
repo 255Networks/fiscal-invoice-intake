@@ -1,0 +1,8 @@
+request_id,issuer,reference,customer_id,customer_name,currency,amount_minor
+REQ-01,ISSUER-A,REF-11,DEMO-1,Lake Paper Studio,BRL,12500
+REQ-02,ISSUER-A,REF-11,DEMO-1,Lake Paper Studio,BRL,12500
+REQ-03,ISSUER-A,REF-12,,Ceder Service Lab,BRL,8200
+REQ-04,ISSUER-A,REF-10,DEMO-2,Cedar Service Lab,BRL,3800
+REQ-05,ISSUER-A,REF-13,DEMO-3,Amber Orchard Design,BRL,9100
+REQ-06,ISSUER-A,REF-13,DEMO-3,Amber Orchard Design,BRL,9300
+REQ-07,ISSUER-A,REF-14,DEMO-1,Cedar Service Lab,BRL,6700
