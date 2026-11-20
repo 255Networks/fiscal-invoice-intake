@@ -1,0 +1,2 @@
+request_id,issuer,reference,customer_id,currency,amount_minor,reason,suggested_customer
+REQ-01,ISSUER-A,REF-11,DEMO-1,BRL,12500,VERIFIED,
